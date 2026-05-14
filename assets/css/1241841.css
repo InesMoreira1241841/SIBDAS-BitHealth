@@ -1,0 +1,14 @@
+/* Estilos personalizados da BitHealth - Inês Moreira */
+
+body {
+    background-color: #f8f9fa; /* Um cinza muito claro para parecer limpo */
+}
+
+.navbar {
+    border-bottom: 3px solid #007bff; /* Uma linha azul (ou a cor do teu logo) */
+}
+
+h1 {
+    color: #212529;
+    font-weight: bold;
+}
