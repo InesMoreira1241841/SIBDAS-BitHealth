@@ -12,3 +12,19 @@ h1 {
     color: #212529;
     font-weight: bold;
 }
+
+/* Cores para os níveis de criticidade */
+.criticidade-alta {
+    border-left: 5px solid red;
+    padding-left: 10px;
+}
+
+.criticidade-media {
+    border-left: 5px solid orange;
+    padding-left: 10px;
+}
+
+.criticidade-suporte-vida {
+    background-color: #ffe5e5;
+    font-weight: bold;
+}
